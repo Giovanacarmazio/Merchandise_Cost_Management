@@ -1,4 +1,4 @@
-<h1>Nano Desafio 2 - Custo das Mercadorias Vendidas e Serviços Prestados </h1>
+<h1> Custo das Mercadorias Vendidas e Serviços Prestados </h1>
 
 Pergunta:
 Qual o preço final ao consumidor deste modelo de sapato?
