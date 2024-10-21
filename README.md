@@ -1,22 +1,45 @@
-<h1> Custo das Mercadorias Vendidas e Serviços Prestados </h1>
+```markdown
+# Merchandise Cost Management
 
-Pergunta:
-Qual o preço final ao consumidor deste modelo de sapato?
-Para envio do seu resultado final, considere os seguites valores abaixo de referência mas lembre-se que o seu programa deve ser capaz de calcular quaisquer que sejam os valores:
+Este repositório contém o projeto **Merchandise Cost Management**, que tem como objetivo calcular e analisar o custo de mercadorias vendidas. O sistema permite o registro de mercadorias, controle de custos e geração de relatórios financeiros, facilitando a gestão de estoque e finanças.
 
-| Itens  | Valor |
-| ------------- |:-------------:|
-| Couro   | 140     |
-|Solado      | 80    |
-| Cordões e Ilhoses     | 40    |
-|Insumos    | 30    |
-| Mão de Obra     | 50    |
-| Marketing     | 30    |
-| Custos de Venda     | 20    |
+## Descrição do Projeto
 
+O **Merchandise Cost Management** visa ajudar pequenas empresas a calcular o custo de mercadorias vendidas (CMV), fornecendo uma análise clara do desempenho financeiro com base nas compras e vendas registradas.
 
-Variaveis:
+## Funcionalidades
 
+- Registro de mercadorias e seus respectivos custos.
+- Cálculo do custo das mercadorias vendidas.
+- Geração de relatórios financeiros.
 
-![giphy](https://github.com/Giovanacarmazio/Custo-de-Mercadorias/blob/ccea4e2d3f1e0673858b2046ad0ec365201c4439/preco.jpg)
+## Tecnologias Utilizadas
 
+- **Python**
+- **Pandas**: Para manipulação de dados.
+- **CSV**: Para armazenamento de dados.
+
+## Estrutura do Repositório
+
+- `cost_management.py`: Código principal do sistema de cálculo de custo de mercadorias.
+- `data/`: Arquivos CSV contendo os registros de mercadorias e transações.
+- `docs/`: Documentação detalhada do sistema e instruções de uso.
+
+## Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Giovanacarmazio/Custo-de-Mercadorias.git
+   ```
+
+2. Execute o script:
+   ```bash
+   python cost_management.py
+   ```
+
+3. Insira os dados de mercadorias e visualize os relatórios gerados.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou enviar *pull requests*.
+```
